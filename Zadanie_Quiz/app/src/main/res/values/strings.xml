@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question_1">Obraz "Gwiaździsta noc" jest jednym z nielicznych dzieł Vincenta van Gogha</string>
+    <string name="question_2">Leonardo da Vinci potrafił malować jedną ręką i jednocześnie pisać drugą</string>
+    <string name="question_3">Akcja powieści "Wielki Gatsby" Francisa Scotta Fitzgeralda toczy się w Londynie</string>
+    <string name="question_4">Maria Skłodowska-Curie nie jest jedyną kobietą nagrodzoną dwukrotnie Nagrodą Nobla</string>
+    <string name="question_5">Żaden spośród trzech klasyków wiedeńskich nie urodził się w Wiedniu</string>
+
+    <string name="correct_answer">Twoja odpowiedź jest poprawna!</string>
+    <string name="incorrect_answer">Twoja odpowiedź jest niepoprawna!</string>
+
+    <string name="answer_was_shown">Oszukujesz! Odpowidź była już wyświetlona.</string>
+</resources>
